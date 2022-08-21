@@ -1,10 +1,8 @@
-Sample Module Repository
+Predict electricity demand
 ========================
 
-This simple project is an example repo for Python projects.
-
 `Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-and <https://python-guide-fr.readthedocs.io/fr/latest/writing/structure.html>_.
+and `<https://python-guide-fr.readthedocs.io/fr/latest/writing/structure.html>`_.
 
 ---------------
 
